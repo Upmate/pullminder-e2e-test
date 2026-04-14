@@ -1,6 +1,6 @@
 # pullminder-e2e-test
 
-[![Pullminder](http://localhost:8080/badge/t_f0dbb4f6ac5929d22eeb5fcf7555d97b.svg)](https://pullminder.com)
+[![Pullminder](https://api.pullminder.com/badge/t_11348cc838d59b3eb8c1f56a72f9ffb4.svg)](https://pullminder.com)
 
 Automated test repository for Pullminder nightly E2E tests.
 
